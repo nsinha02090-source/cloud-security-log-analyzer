@@ -14,6 +14,9 @@ This project is a command-line tool that analyzes login logs to detect suspiciou
 - Colorama
 
 ## How to Run
+
+1. Install dependencies:
 pip install colorama
-python analyzer.py logs.txt# cloud-security-log-analyzer
-cloud security log analyzer for detecting suspicious login activity
+
+2. Run the program:
+python analyzer.py logs.txt
